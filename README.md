@@ -18,7 +18,7 @@ The Dashboard section delivers users a quick glance location to make better deci
 
 ### Libraries
 
-- [D3](https://d3js.org/)
+- [D3](https://d3js.org/) •
 [data-visualization](https://github.com/showcases/data-visualization) •
 [chartjs](http://www.chartjs.org/) •
 [chartist-js](http://gionkunz.github.io/chartist-js/examples.html) •
@@ -35,7 +35,7 @@ The Dashboard section delivers users a quick glance location to make better deci
 ---
 
 ### Inspiration
-- [geckoboard](http://www.geckoboard.com)
+- [geckoboard](http://www.geckoboard.com) •
 [buddymedia](http://www.buddymedia.com/products/dashboard) •
 [appexchange](http://appexchange.salesforce.com) •
 [chartbeat](http://chartbeat.com) •
@@ -44,6 +44,11 @@ The Dashboard section delivers users a quick glance location to make better deci
 [google analytics](http://www.google.com/analytics) •
 [atlassian](https://marketplace.atlassian.com) •
 [pagelever](http://pagelever.com/products)
+
+---
+
+### Usage
+- [alt. vehicle dashboards](https://www.davidbanthony.me/blog/2016/7/25/oled-vehicle-displays) •
 
 ---
 
