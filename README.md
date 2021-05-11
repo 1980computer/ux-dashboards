@@ -48,7 +48,7 @@ The Dashboard section delivers users a quick glance location to make better deci
 ---
 
 ### Usage
-- [alt. web dashboards](https://dribbble.com/search/dashboard) •
+- [alt. web dashboards](https://dribbble.com/search/dashboard)
 - [alt. vehicle dashboards](https://www.davidbanthony.me/blog/2016/7/25/oled-vehicle-displays)
 
 ---
