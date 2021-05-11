@@ -12,6 +12,7 @@ The Dashboard section delivers users a quick glance location to make better deci
 - [What is the best data to include on a wallboard / dashboard?](http://www.quora.com/What-is-the-best-data-to-include-on-a-wallboard-dashboard)
 - [What does a good product dashboard look like?](http://www.quora.com/What-does-a-good-product-dashboard-look-like)
 - [What is an example of a Dashboard/Admin Tool with great design and usability?](http://www.quora.com/Web-Design/What-is-an-example-of-a-Dashboard-Admin-Tool-with-great-design-and-usability)
+- [Designing and Building Great Dashboards - Data Visualizations](https://www.geckoboard.com/blog/designing-and-building-dashboards-data-visualisations/)
 
 ---
 
