@@ -8,33 +8,41 @@ The Dashboard section delivers users a quick glance location to make better deci
 
 ### Articles
 - [What purpose does a Dashboard Product serve](http://www.quora.com/User-Interfaces/What-purpose-does-a-Dashboard-within-a-Product-serve)
-- [What purpose does a Dashboard Product serve](http://branch.com/b/what-purpose-does-a-dashboard-within-a-product-serve)
-- [What is an example of a Dashboard/Admin Tool with great design and usability?](http://www.quora.com/Web-Design/What-is-an-example-of-a-Dashboard-Admin-Tool-with-great-design-and-usability)
+- [What purpose does a dashboard within a product serve?](https://www.quora.com/User-Interfaces/What-purpose-does-a-dashboard-within-a-product-serve)
 - [What is the best data to include on a wallboard / dashboard?](http://www.quora.com/What-is-the-best-data-to-include-on-a-wallboard-dashboard)
 - [What does a good product dashboard look like?](http://www.quora.com/What-does-a-good-product-dashboard-look-like)
+- [What is an example of a Dashboard/Admin Tool with great design and usability?](http://www.quora.com/Web-Design/What-is-an-example-of-a-Dashboard-Admin-Tool-with-great-design-and-usability)
 
 ---
 
 ### Libraries
 
 - [D3](https://d3js.org/)
+[data-visualization](https://github.com/showcases/data-visualization) •
+[chartjs](http://www.chartjs.org/) •
+[chartist-js](http://gionkunz.github.io/chartist-js/examples.html) •
+[highcharts](https://www.highcharts.com/demo) •
+[google.com/chart](https://developers.google.com/chart/interactive/docs/gallery) •
+[sigmajs](http://sigmajs.org/) •
+[nvd3](http://nvd3.org/examples/index.html) •
+[cytoscape](http://js.cytoscape.org/#demos) •
+[vega](https://vega.github.io/vega/examples/) •
+[uber](http://uber.github.io/deck.gl/#/examples/overview) •
+[keen](http://keen.github.io/keen-dataviz.js/) •
+[modeanalytics](https://about.modeanalytics.com/data-sources/)
 
 ---
 
 ### Inspiration
-- [...](...)
-[](http://www.geckoboard.com/ may be the best example.) •
-[](http://www.buddymedia.com/products/dashboard) •
-[](http://appexchange.salesforce.com) •
-[](http://chartbeat.com) •
-[](https://www.gosquared.com) •
-[](https://mixpanel.com) •
-[](http://www.google.com/analytics) •
-[](http://www.google.com/intl/en/enterprise/apps/business/products.html) •
-[](http://wordpress.org/extend/plugins) •
-[](http://extensions.joomla.org) •
-[](https://marketplace.atlassian.com) •
-[](http://pagelever.com/products)
+- [geckoboard](http://www.geckoboard.com)
+[buddymedia](http://www.buddymedia.com/products/dashboard) •
+[appexchange](http://appexchange.salesforce.com) •
+[chartbeat](http://chartbeat.com) •
+[gosquared](https://www.gosquared.com) •
+[mixpanel](https://mixpanel.com) •
+[google analytics](http://www.google.com/analytics) •
+[atlassian](https://marketplace.atlassian.com) •
+[pagelever](http://pagelever.com/products)
 
 ---
 
