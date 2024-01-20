@@ -53,5 +53,3 @@ The Dashboard section delivers users a quick glance location to make better deci
 
 ---
 
-Made by [davidbanthony.com](https://davidbanthony.com)
-
